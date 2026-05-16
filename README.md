@@ -23,27 +23,27 @@ This roadmap is designed for:
 
 # 📚 Table of Contents
 
-1. Prerequisites  
-2. Microservices Fundamentals  
-3. Building First Microservice  
-4. Inter-Service Communication  
-5. Service Discovery  
-6. Centralized Configuration  
-7. API Gateway  
-8. Security in Microservices  
-9. Logging, Monitoring & Observability  
-10. Event-Driven Microservices  
-11. Data Management in Microservices  
-12. Containerization  
-13. Kubernetes & Orchestration  
-14. CI/CD for Microservices  
-15. Testing Microservices  
-16. Performance & Scalability  
-17. Cloud & Deployment  
-18. Advanced Production Patterns  
-19. Production Architecture Design  
-20. Advanced DevOps & Platform Engineering  
-21. Interview Preparation Topics  
+0. Prerequisites  
+1. Microservices Fundamentals  
+2. Building First Microservice  
+3. Inter-Service Communication  
+4. Service Discovery  
+5. Centralized Configuration  
+6. API Gateway  
+7. Security in Microservices  
+8. Logging, Monitoring & Observability  
+9. Event-Driven Microservices  
+10. Data Management in Microservices  
+11. Containerization  
+12. Kubernetes & Orchestration  
+13. CI/CD for Microservices  
+14. Testing Microservices  
+15. Performance & Scalability  
+16. Cloud & Deployment  
+17. Advanced Production Patterns  
+18. Production Architecture Design  
+19. Advanced DevOps & Platform Engineering  
+20. Interview Preparation Topics  
 
 ---
 
